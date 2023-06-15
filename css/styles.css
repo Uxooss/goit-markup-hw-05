@@ -861,9 +861,6 @@ img {
 }
 
 .terms-check-label {
-  display: flex;
-  gap: 4px;
-  align-items: center;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
@@ -884,7 +881,7 @@ img {
   fill: transparent;
   width: 16px;
   height: 16px;
-  margin-right: 4px;
+  margin-right: 8px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 2px;
   transition: background-color var(--transition), border var(--transition),
