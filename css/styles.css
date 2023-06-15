@@ -899,8 +899,8 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  margin: 0 auto;
   border: none;
-
   color: var(--title-color_light);
   background: var(--btn-color_primar);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
