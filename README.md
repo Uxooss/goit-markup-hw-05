@@ -1,7 +1,7 @@
 **Модуль 5.       Елементи форм. Таблиці**
 ------------------------------------------
 
-# goit-markup-hw-05  = [ _...in progress_ ]
+# goit-markup-hw-05  = [ _Done_ ]
 
 https://uxooss.github.io/goit-markup-hw-05
 
